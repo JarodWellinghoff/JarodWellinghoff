@@ -4,7 +4,7 @@ I'm a software engineer with a passion for building web applications and explori
 
 - 🔭 I’m currently working on a project to build a web-based productivity tool.
 - 🌱 I’m currently learning React Native and Python.
-- 💬 Ask me about my experience with Angular, Node.js, and Express.
+- 💬 Ask me about my experience with Node.js and Express.
 - 📫 How to reach me: [Email](mailto:jarodwellinghoff@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jwellinghoff/)
 - 😄 Pronouns: he/him
 
